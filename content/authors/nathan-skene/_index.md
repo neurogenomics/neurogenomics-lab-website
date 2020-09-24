@@ -21,6 +21,8 @@ education:
       institution: University of Reading
       year: 2008
 superuser: true
+user_groups:
+  - Principal Investigators
 ---
 I am a lecturer at Imperial College's Department of Brain Sciences and a group leader at the UK Dementia Research Institute.
 I initially came to Imperial as an independent <a href="https://www.edmondjsafra.org/">Safra</a> research fellow. My interests lie in using human genetics to gain insight into the neurobiology of brain disorders and cognitive traits. Currently I am focused on identifying the causal cell types underlying complex genetic traits. The motivation for this is that traditional approaches to science have been unable to yield definitive answers on which cell types are the primary cause of major diseases, such as Schizophrenia or Alzheimers. For instance, as the primary pathology in Alzheimers is neuronal/synapse loss, it was reasonably assumed for many years that the cause was neuronal, however analysis of genetic associatons shows that <a href="https://www.nature.com/articles/s41588-018-0311-9">most of the causal genes</a> are expressed in microglia.

@@ -11,7 +11,7 @@ authors:
   - admin
 title: Neurogenomics Lab
 role: ""
-avatar_filename: dna.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

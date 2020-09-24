@@ -15,10 +15,7 @@ avatar_filename: dna.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Epigenetics
-  - Transcriptomics
-  - Single Cell Genomics
-  - GWAS
+  - ""
 social:
   - icon_pack: ai
     icon: <i class="fab fa-github"></i>

@@ -4,6 +4,13 @@ role: Lecturer and UKDRI Group Leader
 avatar_filename: avatar.jpg
 bio: My research interests include human genetics, single cell -omics and
   neurobiology.
+social:
+  - link: https://github.com/nathanskene/
+    icon_pack: ai
+    icon: github
+  - link: https://hub.docker.com/u/nathanskene
+    icon_pack: ai
+    icon: docker
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute

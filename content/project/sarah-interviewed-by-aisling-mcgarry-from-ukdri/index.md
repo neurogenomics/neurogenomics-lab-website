@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://www.imperial.ac.uk/dementia-research-institute/about-us/researcher-interviews/a-conversation-with-dr-sarah-marzi-by-aisling-mcgarry-/
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---

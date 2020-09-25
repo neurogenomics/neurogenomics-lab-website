@@ -12,10 +12,9 @@ authors:
 title: Neurogenomics Lab
 role: ""
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - ""
+bio: The UK Dementia Research Institute Neurogenomics Lab at Imperial College
+#interests:
+#  - ""
 social:
   - icon_pack: ai
     icon: <i class="fab fa-github"></i>
@@ -23,8 +22,8 @@ social:
   - icon: <i class="fab fa-docker"></i>
     icon_pack: ai
     link: https://hub.docker.com/orgs/neurogenomicslab
-education:
-  courses: []
+#education:
+#  courses: []
 email: ""
 user_groups:
   - ""

@@ -13,17 +13,13 @@ title: Neurogenomics Lab
 role: ""
 avatar_filename: avatar.jpg
 bio: The UK Dementia Research Institute Neurogenomics Lab at Imperial College
-#interests:
-#  - ""
 social:
-  - icon_pack: ai
-    icon: <i class="fab fa-github"></i>
+  - icon_pack: fab
+    icon: github
     link: github.com/neurogenomics
-  - icon: <i class="fab fa-docker"></i>
-    icon_pack: ai
+  - icon: docker
+    icon_pack: fab
     link: https://hub.docker.com/orgs/neurogenomicslab
-#education:
-#  courses: []
 email: ""
 user_groups:
   - ""

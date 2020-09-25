@@ -17,7 +17,6 @@ social:
   - link: https://twitter.com/n_skene
     icon_pack: fab
     icon: twitter    
-    
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute

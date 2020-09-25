@@ -5,3 +5,9 @@
 /resources/
 public/
 .Rproj.user
+
+# RStudio
+*/.DS_Store
+*DS_Store
+
+

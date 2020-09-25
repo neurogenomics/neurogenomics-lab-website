@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
 title: Cell type mapping for 28 traits against whole nervous system
-date: 2020-09-24T21:15:17.900Z
+date: 2020-09-25T10:33:32.166Z
 featured: true
 image:
   filename: featured.png

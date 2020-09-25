@@ -14,14 +14,19 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Media Coverage"
+  url = "#media"
   weight = 30
 
 [[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
+
+[[main]]
+  name = "Lab wiki"
+  url = "https://osf.io/6w7f9/wiki/home/"
+  weight = 50
 
 [[main]]
   name = "Contact"

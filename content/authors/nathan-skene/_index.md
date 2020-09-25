@@ -5,12 +5,19 @@ avatar_filename: avatar.jpg
 bio: My research interests include human genetics, single cell -omics and
   neurobiology.
 social:
+  - link: nskene@ic.ac.uk
+    icon_pack: fas
+    icon: envelope
   - link: https://github.com/nathanskene/
     icon_pack: fab
     icon: github
   - link: https://hub.docker.com/u/nathanskene
     icon_pack: fab
     icon: docker
+  - link: https://twitter.com/n_skene
+    icon_pack: fab
+    icon: twitter    
+    
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute

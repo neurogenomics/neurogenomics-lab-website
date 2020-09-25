@@ -1,9 +1,9 @@
 ---
 title: Cell type mapping for 28 traits against whole nervous system
 subtitle: null
-date: 2020-09-25T10:34:03.118Z
-summary: "Our [https://www.biorxiv.org/content/10.1101/528463v1](latest
-  preprint) on cell type mapping is now available on bioRxiv. This work was a
+date: 2019-02-20T10:34:03.118Z
+summary: "Our <a href='https://www.biorxiv.org/content/10.1101/528463v1'>latest
+  preprint</a> on cell type mapping is now available on bioRxiv. This work was a
   collaboration with the Hjerling-Leffler and Sullivan labs. Some of the most
   exciting findings relate to Parkinsons disease: we discover genetic
   associations with most the celltypes known to degenerate in the disease

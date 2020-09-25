@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://go.technologynetworks.com/5-reasons-to-be-optimistic-about-alzheimers-research
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---

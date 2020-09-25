@@ -1,8 +1,11 @@
 ---
-title: bdbsdbs
+title: Cell type mapping for 28 traits against whole nervous system
 subtitle: sdbsdb
 date: 2020-09-25T10:34:03.118Z
-summary: sdbsdb
+summary: |-
+  ![]()
+
+  sdbsdb
 draft: false
 featured: false
 image:

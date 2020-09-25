@@ -10,4 +10,4 @@ image:
 ---
 Labspoon have created a new video about the lab's work. 
 
-{{< youtube gIlTGj_Rl4g&t >}}
+{{< youtube gIlTGj_Rl4g >}}

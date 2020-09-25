@@ -1,9 +1,14 @@
 ---
 title: Cell type mapping for 28 traits against whole nervous system
-subtitle: 
+subtitle: null
 date: 2020-09-25T10:34:03.118Z
-summary: |-
-  Our [https://www.biorxiv.org/content/10.1101/528463v1](latest preprint) on cell type mapping is now available on bioRxiv. This work was a collaboration with the Hjerling-Leffler and Sullivan labs. Some of the most exciting findings relate to Parkinsons disease: we discover genetic associations with most the celltypes known to degenerate in the disease (suggesting this occurs cell autonomously) but also discovered a new link to Oligodendrocytes...
+summary: "Our [https://www.biorxiv.org/content/10.1101/528463v1](latest
+  preprint) on cell type mapping is now available on bioRxiv. This work was a
+  collaboration with the Hjerling-Leffler and Sullivan labs. Some of the most
+  exciting findings relate to Parkinsons disease: we discover genetic
+  associations with most the celltypes known to degenerate in the disease
+  (suggesting this occurs cell autonomously) but also discovered a new link to
+  Oligodendrocytes..."
 draft: false
 featured: false
 image:
@@ -11,10 +16,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Our <a href="<https://www.biorxiv.org/content/10.1101/528463v1>">latest preprint</a> on cell type mapping is now available on bioRxiv. This work was a collaboration with the Hjerling-Leffler and Sullivan labs. Some of the most exciting findings relate to Parkinson's disease: we discover genetic associations with most the celltypes known to degenerate in the disease (suggesting this occurs cell autonomously) but also discovered a new link to Oligodendrocytes.
 
-Our [https://www.biorxiv.org/content/10.1101/528463v1](latest preprint) on cell type mapping is now available on bioRxiv. This work was a collaboration with the Hjerling-Leffler and Sullivan labs. Some of the most exciting findings relate to Parkinson's disease: we discover genetic associations with most the celltypes known to degenerate in the disease (suggesting this occurs cell autonomously) but also discovered a new link to Oligodendrocytes.
-
-We tested for associations with 231 cell types from the mouse central, peripheral and enteric nervous systems. We used single cell transcriptome data from @slinnarsson recent [https://is.gd/TDuwm7](cell type atlas).
+We tested for associations with 231 cell types from the mouse central, peripheral and enteric nervous systems. We used single cell transcriptome data from @slinnarsson recent <a href="https://is.gd/TDuwm7">cell type atlas</a>.
 
 ![](fig0-all-traits-all-cell-types.jpg)
 

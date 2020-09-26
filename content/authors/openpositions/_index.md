@@ -28,7 +28,7 @@ We're looking for someone that will be able to apply **epigenetics methods** to 
 
 ## Computational biology postdocs. 
 
-Are you a computational researchers with a background in **mathematics, statistics, computer science** or other quantitative disciplines. Do you care about reproducible research and believe in the value of open-source code? Then get in touch about this position! The project will involve working with data generated from single cell RNA-seq, ATAC-seq or post-mortem human brain tissue. Researchers with unconventional backgrounds would be welcome: if you've been working in mathematics, engineering or computer science and are looking to get into biology then do get in touch. Strong programming skills will be required.
+Are you a computational researchers that cares about **reproducible research** and believes in the value of open-source code? Then get in touch about this position! The project will involve working with data generated from single cell RNA-seq, ATAC-seq or post-mortem human brain tissue. The focus will be on using the data to interpret the results of **human genetics** studies. Researchers with unconventional backgrounds would be welcome: if you've been working in **mathematics, engineering or computer science** and are looking to get into biology then do get in touch. Strong programming skills will be required.
 
 # PhD student in machine learning
 

@@ -15,7 +15,7 @@ social:
     icon: twitter
   - link: https://scholar.google.com/citations?user=PR6KaQQAAAAJ&hl=en&oi=ao
     icon_pack: ai
-    icon: google-scholar    
+    icon: google-scholar        
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute

@@ -18,6 +18,7 @@ subtitle = ""
                  "PhD Students",
                  "Masters Students",
                  "Visitors",
+                 "Open Positions",
                  "Alumni"]
 
 [design]

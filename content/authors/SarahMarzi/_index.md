@@ -10,6 +10,12 @@ social:
   - link: https://github.com/SarahMarzi
     icon_pack: fab
     icon: github    
+  - link: https://twitter.com/sj_marzi
+    icon_pack: fab
+    icon: twitter
+  - link: https://scholar.google.com/citations?user=BWeIK8kAAAAJ&hl=en&oi=ao
+    icon_pack: ai
+    icon: google-scholar      
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute

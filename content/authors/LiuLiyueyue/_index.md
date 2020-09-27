@@ -23,7 +23,7 @@ education:
       
 superuser: false
 user_groups:
-  - Masters Students
+  - Alumni
 ---
 
 I am a 2019-2020 MRes Experimental Neuroscience student

@@ -30,6 +30,19 @@ We're looking for someone that will be able to apply **epigenetics methods** to 
 
 Are you a computational researchers that cares about **reproducible research** and believes in the value of open-source code? Then get in touch about this position! The project will involve working with data generated from single cell RNA-seq, ATAC-seq or post-mortem human brain tissue. The focus will be on using the data to interpret the results of **human genetics** studies. Researchers with unconventional backgrounds would be welcome: if you've been working in **mathematics, engineering or computer science** and are looking to get into biology then do get in touch. Strong programming skills will be required.
 
+## Postdoctoral Fellowship Funding
+
+We're always happy to discuss applications for postdoctoral fellowships. A curated list of fellowships broken down by nationality of applicant and host is <a href="https://docs.google.com/spreadsheets/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/edit#gid=0">available here</a>. The programmes which will be of interest to most people are:
+
+- <a href="https://ec.europa.eu/research/mariecurieactions/">Marie Curie actions</a>
+- <a href="https://ibro.org/ibro-research-fellowships-2019/#:~:text=Funds%20from%20an%20IBRO%20Research,time%20the%20application%20is%20submitted">International Brain Research Organisation</a>
+- <a href="https://www.hfsp.org/">Human Frontiers</a>
+- <a href="https://www.embo.org/">EMBO</a>
+- <a href="https://wellcome.org/grant-funding/schemes/sir-henry-wellcome-postdoctoral-fellowships">Henry Wellcome Postdoctoral Fellowships</a>
+
+Get in touch if you are interested in applying to one hosted by our lab. 
+
+
 # PhD student
 
 ## Open position in machine learning
@@ -45,8 +58,9 @@ There are a number of sources for PhD scholarships at Imperial:
 - <a href="https://ai4health.io/">UKRI Centre for Doctoral Training in AI for Healthcare</a>. This program involves bringing AI researchers together with clinical researchers; we expect to be submitting project proposals with interested students.
 - <a href="https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/">The China Scholarship Council (CSC) Scheme</a>. PhD funding exclusively for students from China.
 - <a href="https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/ims/">The Imperial Marshall Scholarship Scheme</a>. PhD/MSc funding exclusively for students from USA.
-- <a href="https://www.imperial.ac.uk/admin-services/international-relations/cnrs-imperial-phd-joint-programme/">Imperial College London-CNRS PhD Joint Programme</a>. This recently established programe is focused on `Mathematics, data and their applications across all areas of science`. Students will spend half their time at Imperial and half at CNRS.
+- <a href="https://www.imperial.ac.uk/admin-services/international-relations/cnrs-imperial-phd-joint-programme/">Imperial College London-CNRS PhD Joint Programme</a>. This recently established programe is focused on 'Mathematics, data and their applications across all areas of science'. Students will spend half their time at Imperial and half at CNRS.
 
+If you are interested in applying for these programmes then contact Nathan or Sarah to discuss your application.
 
 # Masters student
 

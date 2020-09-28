@@ -9,5 +9,7 @@ education:
       year: 2020
 email: m.tsalenchuk20@imperial.ac.uk
 superuser: false
+user_groups:
+  - PhD Students
 ---
 Full bio to

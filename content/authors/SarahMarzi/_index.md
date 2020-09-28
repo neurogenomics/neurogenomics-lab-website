@@ -22,17 +22,14 @@ organizations:
     url: Imperial College
 education:
   courses:
-    - course: Postdoc
-      institution: Queen Mary University of London
-      year: 2019
-    - course: PhD Epigenetics
+    - course: PhD in Epigenetics
       institution: King's College London
       year: 2017
-    - course: Diplom Mathematics
-      institution: Freiburg
+    - course: Diplom in Mathematics
+      institution: Albert-Ludwigs-Universität Freiburg
       year: 2013
-    - course: BSc Psychology
-      institution: Freiburg
+    - course: BSc in Psychology
+      institution: Albert-Ludwigs-Universität Freiburg
       year: 2013
 superuser: false
 user_groups:

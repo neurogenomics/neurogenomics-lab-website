@@ -13,3 +13,5 @@ We went out for the lab's first christmas party along with the Johnson lab and f
 ![](img_20191216_194947.jpg)
 
 ![](img_20191216_195004__01.jpg)
+
+![](thumbnail_IMG_4064.jpg)

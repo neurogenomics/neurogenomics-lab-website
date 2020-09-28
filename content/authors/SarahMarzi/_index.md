@@ -2,9 +2,6 @@
 title: Sarah Marzi
 role: Edmond and Lily Safra Research Fellow and UK DRI Career Development Fellow
 avatar_filename: avatar.jpg
-bio: ""
-interests:
-  - ""
 social:
   - link: s.marzi@imperial.ac.uk
     icon_pack: fas

@@ -1,10 +1,11 @@
 ---
 title: Roxy Zhang
-role: BGI Funded PhD Student
+role: PhD Student
 avatar_filename: avatar.jpg
-bio: My research interests include human genetics, single cell -omics and neurobiology.
+bio: My research interests include human genetics, single cell -omics and
+  neurobiology.
 social:
-  - link: c.murphy19@imperial.ac.uk 
+  - link: c.murphy19@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:
@@ -12,12 +13,6 @@ organizations:
     url: UK Dementia Research Institute
   - name: Imperial College
     url: Imperial College
-#education:
-#  courses:
-#  - course: MRes Experimental Neuroscience
-#    institution: Imperial College
-#    year: 2020  
-      
 superuser: false
 user_groups:
   - PhD Students

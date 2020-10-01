@@ -14,13 +14,14 @@ organizations:
     url: Imperial College
 education:
   courses:
-  - course: MSc in Mathematics
-    institution: UM-DAE Centre for Excellence in Basic Sciences
-    year: 2021   
-      
+    - course: MSc in Mathematics
+      institution: UM-DAE Centre for Excellence in Basic Sciences
+      year: 2021
 superuser: false
 user_groups:
   - Masters Students
 ---
+I am currently pursuing my Masters degree in mathematics at UM-DAE Center for excellence in basic sciences, Mumbai. Previously, I worked in the field of reinforcement learning, with a goal to develop chemical reaction networks that can perform complex tasks and mimic their natural counterparts. During this time I developed a love for working in interdisciplinary science where I am able to interact and learn from people who come from different scientific backgrounds. 
 
-I am a 4th year Integrated MSc student in Mathematics from UM-DAE Centre for Excellence in Basic Sciences, Mumbai, India (www.cbs.ac.in). In previous projects I studied reinforcement learning and hidden markov models.
+
+Currently as a part of my thesis I am working under the guidance of Prof. Nathan Skene. Our work aims to look at the RNA-DNA interactions and try to understand the importance of such interactions. To do this we will be using RADICL-seq data, with the aim of finding significant interactions using statistical methods. Apart from this, I like to spend time making and listening to music.

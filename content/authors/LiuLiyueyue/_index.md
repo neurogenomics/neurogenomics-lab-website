@@ -1,15 +1,15 @@
 ---
-title: Liu Liyueyue
+title: Liyueyue Liu
 role: MRes Experimental Neuroscience
 avatar_filename: avatar.jpg
 bio: MRes Experimental Neuroscience student
 social:
-  - link: kristina.salontaji20@imperial.ac.uk
+  - link: liyueyue.liu19@imperial.ac.uk
     icon_pack: fas
     icon: envelope
-  - link: https://github.com/KristinaSalontaji
+  - link: https://github.com/leebio14
     icon_pack: fab
-    icon: github    
+    icon: github
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute
@@ -17,10 +17,9 @@ organizations:
     url: Imperial College
 education:
   courses:
-  - course: MRes Experimental Neuroscience 
-    institution: Imperial College London
-    year: 2020
-      
+    - course: MRes Experimental Neuroscience
+      institution: Imperial College London
+      year: 2020
 superuser: false
 user_groups:
   - Alumni

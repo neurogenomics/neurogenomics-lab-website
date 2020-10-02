@@ -47,7 +47,7 @@ Get in touch if you are interested in applying to one hosted by our lab.
 
 ## Open position in machine learning
 
-We are currently looking to recruit a PhD student to work on machine learning. They will need a strong background in **mathematics, statistics, computer science** or other quantitative disciplines. The candidate will work with **single cell genomic** data generated in our lab, as well as large public datasets. They will develop new **machine learning** models and apply cutting-edge statistical approaches. Candidates are encouraged to contact Nathan (nskene@ic.ac.uk) with their CVs and a brief statement about research interests.
+We are currently looking to recruit a PhD student to work on machine learning. They will need a strong background in **mathematics, statistics, computer science** or other quantitative disciplines. The candidate will work with **single cell genomic** data generated in our lab, as well as large public datasets. They will develop new **machine learning** models and apply cutting-edge statistical approaches. Candidates are encouraged to contact Nathan (nskene@ic.ac.uk) with their CVs and a brief statement about research interests. Further information about the position is available <a href="https://www.findaphd.com/phds/project/using-machine-learning-to-predict-cell-type-specific-effects-of-genetic-variants-which-influence-genome-regulation/?p124070">here on FindAPhD</a>.
 
 ## Source for PhD funding
 

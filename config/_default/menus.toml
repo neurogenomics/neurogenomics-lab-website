@@ -34,6 +34,16 @@
   weight = 60
 
 [[main]]
+  name = "Datasets"
+  url = "#datasets"
+  weight = 61
+
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 62
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 61

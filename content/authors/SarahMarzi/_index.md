@@ -16,6 +16,9 @@ social:
   - link: https://scholar.google.com/citations?user=BWeIK8kAAAAJ&hl=en&oi=ao
     icon_pack: ai
     icon: google-scholar
+  - link: https://www.linkedin.com/in/sarah-marzi-24a14924/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: UK Dementia Research Institute
     url: UK Dementia Research Institute

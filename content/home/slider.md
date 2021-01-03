@@ -33,7 +33,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Read more"
-  cta_url = "http://localhost:1313/author/open-positions/"
+  cta_url = "https://www.neurogenomics.co.uk/author/open-positions/"
   cta_icon_pack = "fas"
   cta_icon = "arrow-circle-right"
 

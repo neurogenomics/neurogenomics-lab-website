@@ -24,7 +24,7 @@ We are looking to recruit talented researchers to join the lab. Currently we are
 
 ## Epigenetics postdoc
 
-We're looking for someone that will be able to apply **epigenetics methods** to disassociated **single cells** and FACS sorted populations of nuclei. Wetlab experience working with genomic methods (e.g. DNA or RNA) is the primary criteria for this position.  Experience working with **post-mortem human brain** would be beneficial but is not required.
+We're looking for someone that will be able to apply **epigenetics methods** to disassociated **single cells** and FACS sorted populations of nuclei. Wetlab experience working with genomic methods (e.g. DNA or RNA) is the primary criteria for this position.  Experience working with **post-mortem human brain** would be beneficial but is not required. Please apply via <a href="https://www.imperial.ac.uk/jobs/description/MED02114/research-associate-epigenetics-uk-dementia-research-institute/">this link</a> but first, just drop us an email to express your interest.
 
 ## Computational biology postdocs. 
 

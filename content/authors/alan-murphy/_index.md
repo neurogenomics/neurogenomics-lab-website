@@ -12,6 +12,8 @@ education:
       institution: University of Dublin, Trinity College Dublin
       year: 2013
 superuser: false
+user_groups:
+  - Bioinformaticians
 ---
 I have a background in data analytics and machine learning, undertaking my undergraduate degree in Trinity College Dublin. I gained three years of experience in industry, working as a data analytics consultant on numerous statistical projects across a wide range of industries from the public sector to banking.
 

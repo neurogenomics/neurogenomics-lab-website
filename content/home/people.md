@@ -19,6 +19,7 @@ subtitle = ""
                  "Masters Students",
                  "Visitors",
                  "Open Positions",
+                 "Bioinformaticians",
                  "Alumni"]
 
 [design]

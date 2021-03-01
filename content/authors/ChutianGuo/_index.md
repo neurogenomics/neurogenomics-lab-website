@@ -4,7 +4,7 @@ role: Visting Masters Student
 avatar_filename: avatar.jpg
 bio: MSc Translational Neuroscience student
 social:
-  - link: shashank.tiwari@cbs.ac.in
+  - link: chutian.guo20@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:

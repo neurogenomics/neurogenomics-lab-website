@@ -1,7 +1,7 @@
 ---
 title: Sam Winiarski
 role: Undergraduate Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.JPG
 social:
   - link: samuel.winiarski19@imperial.ac.uk
     icon_pack: fas

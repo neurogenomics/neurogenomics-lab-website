@@ -1,7 +1,7 @@
 ---
 title: Shivani Raja
 role: Undergraduate Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 social:
   - link: shivani.raja19@imperial.ac.uk
     icon_pack: fas

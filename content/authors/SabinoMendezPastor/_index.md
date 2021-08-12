@@ -1,7 +1,7 @@
 ---
 title: Sabino Mendez Pastor
 role: Undergraduate Student
-avatar_filename: sabino.jpg
+avatar_filename: avatar.jpg
 social:
   - link: sabino.mendez-pastor@imperial.ac.uk
     icon_pack: fas

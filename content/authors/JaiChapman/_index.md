@@ -26,5 +26,5 @@ user_groups:
   - Alumni
 ---
 
-I am a second-year Master student in Neuroscience at the Vrije University Amsterdam. I previously did my BSc in Psychology at Leiden. During previous internships, I worked with fMRI data and with human post-mortem tissue. As part of my programme I took courses on complex trait genetics which drove my growing interest in bioinformatics. After reading the lab's paper on genetic identification of brain cell types in schizophrenia I arranged to visit the neurogenomics lab at Imperial as a Erasmus student.
+I am a third-year undergraduate student on Imperial's biomedical sciences programme
 

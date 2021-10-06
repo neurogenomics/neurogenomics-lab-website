@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Lab wiki"
-  url = "https://osf.io/6w7f9/wiki/home/"
+  url = "https://github.com/neurogenomics/labwiki/wiki"
   weight = 50
 
 [[main]]

@@ -19,6 +19,6 @@ education:
       year: 2022
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 I’m currently an undergraduate student in medicine (MBBS) at Imperial College London. I seek greater understanding of genetic abnormalities underlying various neurological disorders through a computational approach. My main research interest is in applying these findings onto clinical context.

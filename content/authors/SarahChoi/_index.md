@@ -4,7 +4,7 @@ role: Biomedical Sciences Project Student
 avatar_filename: avatar.jpeg
 bio: 3rd year project student on the Biomedical Sciences undergraduate program at Imperial
 social:
-  - link: yi.yang19@imperial.ac.uk
+  - link: loch.choi19@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:

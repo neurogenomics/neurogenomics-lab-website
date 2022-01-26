@@ -1,7 +1,16 @@
 ---
 title: Yanisa Sunthornyotin
 avatar_filename: avatar.jpg
-social: []
+social:
+  - link: https://github.com/mingyanisa
+    icon_pack: fab
+    icon: github
+  - link: https://www.linkedin.com/in/yanisa-sunthornyotin/
+    icon_pack: fab
+    icon: linkedin
+  - link: ming.sunthornyotin21@imperial.ac.uk
+    icon_pack: fas
+    icon: envelope
 education:
   courses:
     - course: BEng Information and communication engineering

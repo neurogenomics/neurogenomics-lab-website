@@ -57,7 +57,7 @@ There are a number of sources for PhD scholarships at Imperial:
 
 If you are interested in applying for these programmes then contact Nathan or Sarah to discuss your application.
 
-# Masters student
+# Masters students
 
 Get in touch about potential projects. We frequently take students from the <a href="http://www.imperial.ac.uk/study/pg/medicine/experimental-neuroscience/">MRes Experimental Neuroscience</a> and <a href="https://www.imperial.ac.uk/study/pg/medicine/translational-neuroscience/">MSc Translational Neuroscience</a> programmes at Imperial College. We're also happy to speak to students from programs at Imperial.
 

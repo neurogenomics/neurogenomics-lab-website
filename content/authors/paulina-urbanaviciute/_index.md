@@ -1,6 +1,7 @@
 ---
 title: Paulina Urbanaviciute
 avatar_filename: avatar.jpg
+role: Research Assistant
 superuser: false
 user_groups:
   - Research Assistants

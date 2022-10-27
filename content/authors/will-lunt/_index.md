@@ -1,6 +1,6 @@
 ---
 title: Will Lunt
-role: UROP Summer Studentship
+role: Research Assistant
 avatar_filename: avatar.jpeg
 education:
   courses:

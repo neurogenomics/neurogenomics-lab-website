@@ -21,7 +21,7 @@ education:
       year: 2022
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 I am a second-year undergraduate student at Imperial College London studying Medical Biosciences. I am currently undertaking a summer research project with Sarah involving metabolomic analysis for Parkinson’s disease. Through a multi-omic analysis of differentially expressed genes and proteins in PD patients, we aim to identify metabolic processes underlying the Parkinson’s phenotype.
 

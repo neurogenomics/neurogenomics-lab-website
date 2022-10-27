@@ -13,6 +13,6 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Bioinformaticians
+  - Alumni
 ---
 I joined the lab as a rotation student on the MRes Molecular and Cellular Biosciences program then decided to continue as a bioinformatician

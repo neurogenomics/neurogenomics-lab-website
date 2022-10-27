@@ -21,7 +21,7 @@ education:
       year: 2022
 superuser: false
 user_groups:
-  - Masters Students
+  - Alumni
 ---
 I am currently studying an MSc in Human and Biological Robotics at Imperial. I previously obtained a Bachelor’s degree in Information and Communication Engineering at Chulalongkorn University. I experienced working as a Data Engineer and Software Engineer developing data pipelines/API for researchers. My main interest lies within the field of Machine learning, Computational Neuroscience, and Bioinformatics. I study how the brain works in both biological and computational aspects while having an opportunity to work on many projects, e.g. Reinforcement Learning, LSTM in real-time anomaly detection, image GANs, and NLP in DNA sequence.
 

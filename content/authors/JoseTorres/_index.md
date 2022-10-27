@@ -32,7 +32,7 @@ education:
       
 superuser: false
 user_groups:
-  - Post-doctoral Researchers
+  - Alumni
 ---
 
 I am a neurobiologist interested on the epigenetic landscape regulating neural development and its impact on neurodegenerative disorders. I have been successfully involved in a wide range of multi-disciplinary projects spanning from clinical settings to academic scenarios with engineers/materials scientists and experimental psychologists. 

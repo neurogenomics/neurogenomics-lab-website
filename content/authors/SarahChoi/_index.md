@@ -20,7 +20,7 @@ education:
       
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 I am a third year Medical Biosciences student at Imperial College London, with a particular interest in neuroscience and the different cell types of the nervous system. During my internship in Dr Istvan Nagy's lab, I was able to work with spinal cord and dorsal root ganglia samples in exploring the role of MSK1 in inflammatory heat hyperalgesia. Under the supervision of Dr Nathan Skene, I now aim to optimise and establish  novel techniques to enable epigenetic data to be obtained from brain cell types, allowing elucidation of the epigenetic modifications related to diseases such as Alzheimer's and Parkinson's disease.

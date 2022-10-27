@@ -20,7 +20,7 @@ education:
       
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 
 I am undertaking a BSc in Medical Bioscience at Imperial College London. I was attracted to the field of neuroscience research during my years in Imperial. I took a 3-month internship in Professor Di Giovanni’s lab, where I used a series of molecular techniques, including immunofluorescence, FACS, and RNA-seq, to investigate the role of immune cells in regulating neuronal activities. Inspired by the power of multi-omics analysis, I came to Neurogenomics Lab to study epigenetic profiling. I am currently work with Dr Nathan Skene and Dr Jose Torres-Pérez and carrying out CUT&RUN analysis, aiming to assess the epigenome of microglia in humans, which would give us clues of the dysregulation in Alzheimer’s Disease.

@@ -18,6 +18,6 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 I'm currently an undergraduate student pursuing an MEng in Biomedical Engineering. My main interest is the brain, and I am planning to study computational neuroscience after my four years at Imperial. I'm excited to be working on a project comparing signatures of Parkinson's disease in the human brain with epigenetic and transcriptional dysregulation of rotenone treated rats, supervised by Dr Sarah Marzi.

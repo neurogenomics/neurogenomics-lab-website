@@ -13,7 +13,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 I have a background in Statistics and Data Science, having undertaken my undergraduate degree in Mathematics at Imperial College, London. My main focus during my degree was on Applied Mathematics and Statistics, including some courses on Machine Learning.
 

@@ -18,9 +18,9 @@ social:
     icon: linkedin
 organizations:
   - name: UK Dementia Research Institute
-    url: UK Dementia Research Institute
+    url: https://ukdri.ac.uk
   - name: Imperial College
-    url: Imperial College
+    url: https://www.imperial.ac.uk
 education:
   courses:
     - course: DPhil in Physiology, Anatomy and Genetics

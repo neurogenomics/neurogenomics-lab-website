@@ -42,7 +42,7 @@ We're always happy to discuss applications for postdoctoral fellowships. A curat
 Get in touch if you are interested in applying to one hosted by our lab. 
 
 
-# PhD student
+# PhD students
 
 ## Sources for PhD funding
 

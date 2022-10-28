@@ -1,5 +1,6 @@
 ---
 title: Shuhan Shah
+role: MSc Student
 avatar_filename: avatar.jpg
 bio: ""
 superuser: false

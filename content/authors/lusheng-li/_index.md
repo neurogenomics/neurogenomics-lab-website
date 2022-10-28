@@ -1,5 +1,6 @@
 ---
 title: Lusheng Li
+role: MSc Student
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:

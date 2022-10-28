@@ -18,17 +18,21 @@ user_groups:
   - Open Positions
 ---
 
-# Postdoctoral researchers
+# Postdoctoral Researchers
 
-We are looking to recruit talented researchers to join the lab. Currently we are looking for two postdocs.
+We are looking to recruit talented researchers to join the lab. Currently, we are looking for postdocs in **Epigenetics**, **Computational Biology**, and **Machine Learning**.
 
-## Epigenetics postdoc
+## Machine Learning Postdoc
+
+The lab is likely to receive funding for a Machine Learning postdoc in late 2022/early 2023. If you're a computational researcher with strong skills in Machine Learning, please contact <a href="mailto:n.skene@imperial.ac.uk">Dr Nathan Skene</a> or <a href="mailto:s.marzi@imperial.ac.uk">Dr Sarah Marzi</a> to discuss this position.
+
+## Epigenetics Postdoc
 
 We're looking for someone that will be able to apply **epigenetics methods** to disassociated **single cells** and FACS sorted populations of nuclei. Wetlab experience working with genomic methods (e.g. DNA or RNA) is the primary criteria for this position.  Experience working with **post-mortem human brain** would be beneficial but is not required.
 
-## Computational biology postdocs. 
+## Computational Biology Postdoc
 
-Are you a computational researchers that cares about **reproducible research** and believes in the value of open-source code? Then get in touch about this position! The project will involve working with data generated from single cell RNA-seq, ATAC-seq or post-mortem human brain tissue. The focus will be on using the data to interpret the results of **human genetics** studies. Researchers with unconventional backgrounds would be welcome: if you've been working in **mathematics, engineering or computer science** and are looking to get into biology then do get in touch. Strong programming skills will be required.
+Are you a computational researcher that cares about **reproducible research** and believes in the value of open-source code? Then get in touch about this position! The project will involve working with data generated from single cell RNA-seq, ATAC-seq or post-mortem human brain tissue. The focus will be on using the data to interpret the results of **human genetics** studies. Researchers with unconventional backgrounds would be welcome: if you've been working in **mathematics, engineering or computer science** and are looking to get into biology then do get in touch. Strong programming skills will be required.
 
 ## Postdoctoral Fellowship Funding
 
@@ -38,9 +42,9 @@ We're always happy to discuss applications for postdoctoral fellowships. A curat
 - <a href="https://ibro.org/open-calls/">International Brain Research Organization</a>
 - <a href="https://www.hfsp.org/">Human Frontiers</a>
 - <a href="https://www.embo.org/">EMBO</a>
+- <a href="https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/research-fellowships/icrf/">Imperial College Research Fellowships</a>
 
 Get in touch if you are interested in applying to one hosted by our lab. 
-
 
 # PhD students
 

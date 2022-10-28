@@ -2,6 +2,11 @@
 title: Bobby Gordon-Smith
 role: Bioinformatician
 avatar_filename: avatar.jpeg
+organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
+  - name: UK Dementia Research Institute
+    url: https://ukdri.ac.uk/
 social:
   - link: https://github.com/ovrhuman
     icon_pack: fab

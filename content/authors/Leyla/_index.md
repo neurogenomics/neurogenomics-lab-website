@@ -8,10 +8,10 @@ social:
     icon_pack: fas
     icon: envelope
 organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
   - name: UK Dementia Research Institute
-    url: UK Dementia Research Institute
-  - name: Imperial College
-    url: Imperial College
+    url: https://ukdri.ac.uk/
 education:
   courses:
     - course: Master’s degree in Molecular and Cellular Biochemistry

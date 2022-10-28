@@ -14,6 +14,13 @@ education:
 superuser: false
 user_groups:
   - Masters Students
+organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
+  - name: UK Dementia Research Institute
+    url: https://ukdri.ac.uk/
+  - name: Department of Brain Sciences
+    url: https://www.imperial.ac.uk/brain-sciences
 ---
 I have a background in Statistics and Data Science, having undertaken my undergraduate degree in Mathematics at Imperial College, London. My main focus during my degree was on Applied Mathematics and Statistics, including some courses on Machine Learning.
 

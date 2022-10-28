@@ -7,7 +7,17 @@ education:
     - course: MBiol, BSc Pharmacology (Industry)
       institution: University of Leeds
       year: 2020
-email: m.tsalenchuk20@imperial.ac.uk
+organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
+  - name: UK Dementia Research Institute
+    url: https://ukdri.ac.uk/
+  - name: Department of Brain Sciences
+    url: https://www.imperial.ac.uk/brain-sciences
+social:
+  - link: m.tsalenchuk20@imperial.ac.uk
+    icon_pack: fas
+    icon: envelope 
 superuser: false
 user_groups:
   - PhD Students

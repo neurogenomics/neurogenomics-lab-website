@@ -13,6 +13,11 @@ education:
   courses:
     - course: Molecular and Cellular Biology
       institution: Agrocampus Ouest
+organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
+  - name: UK Dementia Research Institute
+    url: https://ukdri.ac.uk/
 superuser: false
 user_groups:
   - Alumni

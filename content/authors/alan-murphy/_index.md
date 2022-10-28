@@ -2,6 +2,13 @@
 title: Alan Murphy
 role: UKDRI Funded PhD Student
 avatar_filename: linkedinphoto.jpg
+organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
+  - name: UK Dementia Research Institute
+    url: https://ukdri.ac.uk/
+  - name: Department of Brain Sciences
+    url: https://www.imperial.ac.uk/brain-sciences
 social:
   - link: https://github.com/Al-Murphy/
     icon_pack: fab

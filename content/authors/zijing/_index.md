@@ -2,7 +2,6 @@
 title: Zijing Liu
 role: DRI Funded Postdoc
 avatar_filename: avatar.jpg
-bio: I've come from a background in mathematical analysis of complex graphs, to develop new analysis methods on the intersection of human genetics and single cell -omics.
 social:
   - link: zijing.liu@imperial.ac.uk
     icon_pack: fas
@@ -11,18 +10,18 @@ social:
     icon_pack: fab
     icon: github        
 organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
   - name: UK Dementia Research Institute
-    url: UK Dementia Research Institute
-  - name: Imperial College
-    url: Imperial College
+    url: https://ukdri.ac.uk/
+  - name: Department of Brain Sciences
+    url: https://www.imperial.ac.uk/brain-sciences
 education:
   courses:
-    - course: DPhil in Physiology, Anatomy and Genetics
-      institution: University of Oxford
-      year: 2019
-    - course: Anatomy and Cell Biology
-      institution: McGill University
-      year: 2014      
+    - course: MSc in Biomedical Computing
+      institution: TU Munich
+    - course: BSc in Biomedical Engineering
+      institution: Tsinghua University
       
 superuser: false
 user_groups:

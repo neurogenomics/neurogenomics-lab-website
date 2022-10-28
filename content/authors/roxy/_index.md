@@ -5,14 +5,16 @@ avatar_filename: avatar.jpg
 bio: My research interests include human genetics, single cell -omics and
   neurobiology.
 social:
-  - link: c.murphy19@imperial.ac.uk
+  - link: x.zhang16@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/dementia-research-institute/
   - name: UK Dementia Research Institute
-    url: UK Dementia Research Institute
-  - name: Imperial College
-    url: Imperial College
+    url: https://ukdri.ac.uk/
+  - name: Department of Brain Sciences
+    url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
   - PhD Students

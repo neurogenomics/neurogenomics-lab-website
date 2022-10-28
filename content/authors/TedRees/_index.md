@@ -17,7 +17,6 @@ superuser: false
 user_groups:
   - Masters Students
 ---
-
 I am half-way through my Part-Time Genomic Medicine M.Sc. At Imperial College London.
 
 Following a successful career in the Financial Markets Technology, I was looking to do something more interesting and fulfilling and have been fortunate enough to enrol on this Masters course. The learning curve has been especially steep for someone like me with a non-medicine or biology background, but it’s been highly stimulating so far. I have also enjoyed successfully completing a wet lab skills course at Imperial College to better understand where the data comes from.

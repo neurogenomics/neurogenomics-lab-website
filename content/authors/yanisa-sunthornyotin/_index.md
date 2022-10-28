@@ -1,5 +1,6 @@
 ---
 title: Yanisa Sunthornyotin
+role: MSc Student
 avatar_filename: avatar.jpg
 social:
   - link: https://github.com/mingyanisa

@@ -6,3 +6,4 @@ draft: false
 featured: false
 external_link: https://github.com/neurogenomics/MungeSumstats
 ---
+R package for standardising the format of GWAS summary statistics

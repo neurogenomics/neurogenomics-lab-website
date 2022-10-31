@@ -6,3 +6,4 @@ draft: false
 featured: false
 external_link: https://github.com/neurogenomics/orthogene
 ---
+R package for easy mapping of orthologous genes across hundreds of species

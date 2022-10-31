@@ -10,3 +10,4 @@ external_link: https://github.com/neurogenomics/MAGMA_Celltyping
 #  focal_point: Smart
 #  preview_only: false
 ---
+R package for calculating cell type enrichments GWAS Summary Statistics using MAGMA

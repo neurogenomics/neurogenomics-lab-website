@@ -6,3 +6,4 @@ draft: false
 featured: false
 external_link: https://neurogenomics.github.io/EpiCompare/
 ---
+R package for the comparison and quality control of epigenomic peak files

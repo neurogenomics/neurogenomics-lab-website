@@ -49,7 +49,3 @@ In order to uncover the evolutionary underpinnings of human-specific cognitive a
 In the pursuit of further advancing my skills as a computational researcher, I thereafter accepted a position as a Bioinformatician at the Icahn School of Medicine at Mount Sinai (New York City, NY). There I helped to develop a number of open-access bioinformatics tools; e.g. <a href="https://amp.pharm.mssm.edu/X2K">X2K Web</a>, <a href="https://amp.pharm.mssm.edu/geneshot">Geneshot</a>, <a href="https://github.com/RajLabMSSM/catalogueR">catalogueR</a>, and <a href="https://www.biorxiv.org/content/10.1101/2020.07.20.212407v1">echolocatoR</a>. My collaborators and I also published work revealing cell-type-specific neurogenomic mechanisms underlying neurological conditions (e.g. Parkinson’s and Alzheimer’s Disease) through the application of statistical and machine learning techniques to large-scale multi-omics and clinical data.
 I am now pursuing my PhD in Clinical Medicine Research at Imperial College London under the advisorship of Dr. Nathan Skene. Outside of research, I also enjoy ultra-marathon running and music production.
 
-
-<a href="https://www.biorxiv.org/content/10.1101/2020.07.20.212407v1">echolocatoR</a>
-
-

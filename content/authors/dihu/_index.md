@@ -34,7 +34,7 @@ education:
       
 superuser: false
 user_groups:
-  - Post-doctoral Researchers
+  - Alumni
 ---
 
 I conducted my doctoral training at the University of Oxford as a <a href="https://www.ox.ac.uk/clarendon">Clarendon Scholar</a> in the laboratory of <a href="https://www.dpag.ox.ac.uk/research/srinivas-group">Professor Shankar Srinivas</a>. There I investigated how transcription factor ETS2 may act as either an oncogene or tumour suppressor, using a combination of single-cell RNA-sequencing, FACS, high resolution fixed and live imaging, ex vivo pharmacological culture, and in vivo CRISPR genetics.

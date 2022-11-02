@@ -5,6 +5,9 @@ social:
   - link: james.reeves20@imperial.ac.uk
     icon_pack: fas
     icon: envelope
+  - link: http://linkedin.com/in/james-reeves-b89a48202
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

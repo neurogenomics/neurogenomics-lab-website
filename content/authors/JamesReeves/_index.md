@@ -1,6 +1,7 @@
 ---
 title: James Reeves
 role: Undergraduate Student
+avatar_filename: avatar.png
 social:
   - link: james.reeves20@imperial.ac.uk
     icon_pack: fas

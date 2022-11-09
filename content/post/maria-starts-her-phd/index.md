@@ -1,5 +1,5 @@
 ---
-title: Maria 
+title: Maria Tsalenchuk joins Sarah Marzi's group!
 date: 2020-10-01T17:03:11.471Z
 draft: false
 featured: false

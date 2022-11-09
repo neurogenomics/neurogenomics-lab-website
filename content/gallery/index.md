@@ -1,5 +1,5 @@
 ---
-title = "Gallery"
+title: Gallery
 
 gallery_item:
 - album: images

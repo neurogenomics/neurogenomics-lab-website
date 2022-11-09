@@ -3,6 +3,8 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 weight = 50  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+
 
 title = "Accomplish&shy;ments"
 subtitle = ""

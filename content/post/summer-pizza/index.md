@@ -1,6 +1,7 @@
 ---
 title: Summer pizza social at Scale Space, White City
 date: 2022-06-15T12:07:38.220Z
+lastmod: 2022-06-15T12:07:38.220Z
 draft: false
 featured: false
 image:

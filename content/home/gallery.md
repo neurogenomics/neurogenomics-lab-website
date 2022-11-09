@@ -1,15 +1,34 @@
 +++
 # About widget.
-widget = "gallery"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear in.
-
+layout = "archive"
 title = "Gallery"
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-
-
+[[gallery_item]]
+  album = "images"
+  image = "img1.jpg"
+  caption = "Summer pizzas at Scale Space"
+  
+[[gallery_item]]
+  album = "images"
+  image = "img2.jpg"
+  caption = "Lab's Christmas party"
+  
+[[gallery_item]]
+  album = "images"
+  image = "img3.jpg"
+  caption = "Lab's Christmas party"
+  
+[[gallery_item]]
+  album = "images"
+  image = "img4.jpg"
+  caption = "Lab's Christmas party"
+  
+[[gallery_item]]
+  album = "images"
+  image = "img5.jpg"
+  caption = "Lab's hike to Box Hill"
+  
 +++

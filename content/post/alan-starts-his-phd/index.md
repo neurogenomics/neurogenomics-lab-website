@@ -1,6 +1,6 @@
 ---
 title: Alan Murphy continues working with the lab – now as a PhD student
-date: 2021-06-01T17:01:11.471Z
+date: 2021-07-01T17:01:11.471Z
 draft: false
 featured: false
 image:

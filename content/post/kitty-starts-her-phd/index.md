@@ -1,5 +1,5 @@
 ---
-title: New PhD student joins the lab: Welcome Kitty Murphy!
+title: Kitty Murphy joins as a PhD student!
 date: 2020-11-01T17:01:11.471Z
 draft: false
 featured: false

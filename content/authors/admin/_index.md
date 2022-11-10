@@ -19,7 +19,7 @@ social:
     link:  https://www.github.com/neurogenomics
   - icon: docker
     icon_pack: fab
-    link: https://hub.docker.com/orgs/neurogenomicslab
+    link: https://hub.docker.com/u/neurogenomicslab
 email: ""
 user_groups:
   - ""

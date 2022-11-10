@@ -16,7 +16,7 @@ bio: The UK Dementia Research Institute Neurogenomics Lab at Imperial College
 social:
   - icon_pack: fab
     icon: github
-    link: github.com/neurogenomics
+    link:  https://www.github.com/neurogenomics
   - icon: docker
     icon_pack: fab
     link: https://hub.docker.com/orgs/neurogenomicslab

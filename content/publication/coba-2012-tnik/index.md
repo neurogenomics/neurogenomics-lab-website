@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Neuroscience*"
+url_pdf: https://www.jneurosci.org/content/jneuro/32/40/13987.full.pdf
 ---
 

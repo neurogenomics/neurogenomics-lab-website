@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*American Journal of Psychiatry*"
+url_pdf: https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2017.17060693
 ---
 

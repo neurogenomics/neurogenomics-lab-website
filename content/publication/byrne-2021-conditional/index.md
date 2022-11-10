@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Molecular psychiatry*"
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7657979/
 ---
 

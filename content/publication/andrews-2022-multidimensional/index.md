@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Molecular & Cellular Proteomics*"
+url_pdf: https://www.mcponline.org/article/S1535-9476(21)00164-X/abstract
 ---
 

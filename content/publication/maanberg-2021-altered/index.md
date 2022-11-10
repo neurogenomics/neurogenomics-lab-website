@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Nature Medicine*"
+url_pdf: https://www.nature.com/articles/s41591-021-01295-9
 ---
 

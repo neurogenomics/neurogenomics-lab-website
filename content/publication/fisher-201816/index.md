@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Schizophrenia Bulletin*"
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5888393/
 ---
 

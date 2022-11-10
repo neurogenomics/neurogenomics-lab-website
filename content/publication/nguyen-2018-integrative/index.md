@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*bioRxiv*"
+url_pdf: https://www.biorxiv.org/content/biorxiv/early/2018/11/24/410100.full.pdf
 ---
 

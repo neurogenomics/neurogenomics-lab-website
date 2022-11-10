@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Future science OA*"
+url_pdf: https://www.future-science.com/doi/full/10.2144/fsoa-2020-0161
 ---
 

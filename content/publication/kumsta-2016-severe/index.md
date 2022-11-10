@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Translational psychiatry*"
+url_pdf: https://www.nature.com/articles/tp201695
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Nature genetics*"
+url_pdf: https://www.nature.com/articles/s41588-020-0610-9;
 ---
 

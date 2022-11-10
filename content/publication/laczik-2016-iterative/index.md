@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Bioinformatics and Biology insights*"
+url_pdf: https://journals.sagepub.com/doi/pdf/10.4137/BBI.S40628
 ---
 

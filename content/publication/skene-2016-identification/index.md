@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Frontiers in neuroscience*"
+url_pdf: https://www.frontiersin.org/articles/10.3389/fnins.2016.00016/full
 ---
 

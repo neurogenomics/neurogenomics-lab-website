@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*bioRxiv*"
+url_pdf: https://www.biorxiv.org/content/biorxiv/early/2022/02/19/2022.02.16.480517.full.pdf
 ---
 

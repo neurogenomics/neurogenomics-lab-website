@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*PLoS biology*"
+url_pdf: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006387
 ---
 

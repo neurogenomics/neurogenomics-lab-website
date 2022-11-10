@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Bioinformatics*"
+url_pdf: https://academic.oup.com/bioinformatics/article/37/23/4593/6380562
 ---
 

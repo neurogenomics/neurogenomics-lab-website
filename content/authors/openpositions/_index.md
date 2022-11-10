@@ -4,7 +4,7 @@ role: PhDs, Postdocs, Bioinformaticians and Technicians
 avatar_filename: avatar.jpg
 bio: 
 social:
-  - link: nskene@ic.ac.uk
+  - link: mailto:nskene@ic.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:

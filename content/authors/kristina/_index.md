@@ -4,7 +4,7 @@ role: Erasmus funded visting masters Student
 avatar_filename: avatar.jpg
 bio: Visiting on the Erasmus programme from the Vrije University of Amsterdam
 social:
-  - link: kristina.salontaji20@imperial.ac.uk
+  - link: mailto:kristina.salontaji20@imperial.ac.uk
     icon_pack: fas
     icon: envelope
   - link: https://github.com/KristinaSalontaji

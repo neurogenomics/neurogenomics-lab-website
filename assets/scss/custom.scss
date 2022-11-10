@@ -1,0 +1,60 @@
+@font-face {
+    font-family: FSUntitled-Regular450;
+    src: url(/fonts/FSUntitled-Regular450.eot?#iefix) format("embedded-opentype"), url(/fonts/FSUntitled-Regular450.otf) format("opentype"), url(/fonts/FSUntitled-Regular450.woff) format("woff"), url(/fonts/FSUntitled-Regular450.ttf) format("truetype"), url(/fonts/FSUntitled-Regular450.svg#FSUntitled-Regular450) format("svg");
+    font-weight: 400;
+    font-style:normal
+}
+
+@font-face {
+    font-family: HelveticaNeueLTStd-Lt;
+    src: url(/fonts/helvetica/2F41D9_0_0.eot);
+    src: url(/fonts/helvetica/2F41D9_0_0.eot?#iefix) format("embedded-opentype"), url(/fonts/helvetica/2F41D9_0_0.woff2) format("woff2"), url(/fonts/helvetica/2F41D9_0_0.woff) format("woff"), url(/fonts/helvetica/2F41D9_0_0.ttf) format("truetype");
+    font-weight: 400;
+    line-height: 1.5;
+    font-style:normal
+
+}
+
+@font-face {
+    font-family: HelveticaNeueLTStd-Md;
+    src: url(/fonts/helvetica/3345D1_0_0.eot);
+    src: url(/fonts/helvetica/3345D1_0_0.eot?#iefix) format("embedded-opentype"), url(/fonts/helvetica/3345D1_0_0.woff2) format("woff2"), url(/fonts/helvetica/3345D1_0_0.woff) format("woff"), url(/fonts/helvetica/3345D1_0_0.ttf) format("truetype");
+    font-weight: 400;
+    line-height: 1.5;
+    font-style:normal
+}
+
+.navbar {
+    height: 70px;
+    background: $sta-menu-primary;
+  /* this is the part that takes out the shadow & the only edit */
+    box-shadow: none;  
+    font-size: 16px;
+    font-weight: 400 !important;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    padding: 0 1rem;
+  }
+
+.card-simple {
+    background: #fff;
+  /* this is the part that takes out the shadow */
+    box-shadow: none;
+    border: 1px solid rgba(0,0,0,.09);
+    border-radius: 3px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+.card {
+    margin-bottom: 1.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background: #fff;
+  /* this is the part that takes out the shadow */
+    box-shadow: none;
+    transition: all 0.2s ease-out;
+  }

@@ -4,7 +4,7 @@ role: Masters Student
 avatar_filename: avatar.jpg
 bio: MSc Translational Neuroscience student
 social:
-  - link: leyla.abbasova20@imperial.ac.uk
+  - link: mailto:leyla.abbasova20@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:

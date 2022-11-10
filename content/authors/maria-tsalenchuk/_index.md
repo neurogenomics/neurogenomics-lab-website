@@ -15,7 +15,7 @@ organizations:
   - name: Department of Brain Sciences
     url: https://www.imperial.ac.uk/brain-sciences
 social:
-  - link: m.tsalenchuk20@imperial.ac.uk
+  - link: mailto:m.tsalenchuk20@imperial.ac.uk
     icon_pack: fas
     icon: envelope 
 superuser: false

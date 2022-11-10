@@ -3,7 +3,7 @@ title: Zijing Liu
 role: DRI Funded Postdoc
 avatar_filename: avatar.jpg
 social:
-  - link: zijing.liu@imperial.ac.uk
+  - link: mailto:zijing.liu@imperial.ac.uk
     icon_pack: fas
     icon: envelope
   - link: https://github.com/zj-liu

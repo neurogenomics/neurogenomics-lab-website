@@ -7,7 +7,7 @@ education:
     - course: Applied Anatomy
       institution: University of Bristol
 social:
-  - link: william.lunt@imperial.ac.uk
+  - link: mailto:william.lunt@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 superuser: false

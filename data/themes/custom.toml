@@ -1,20 +1,36 @@
 # Theme metadata
 name = "Custom"
 
-# Is theme light or dark?
-light = true
+[light]
+  # Primary
+  primary = "#f55d02"
 
-# Primary
-primary = "#f55d02"
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#1f0e03"
+  menu_text_active = "#d15706"
+  menu_title = "#1f0e03"
 
-# Menu
-menu_primary = "#fff"
-menu_text = "#29170c"
-menu_text_active = "#a34408"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(250, 240, 232)"
+  
+  link_hover = "#f29052"
+  link = "#ed5f07"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+[dark]
+  # Primary
+  primary = "#f55d02"
 
-link = "#bbdefb"
-link_hover = "#bbdefb"
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#1f0e03"
+  menu_text_active = "#d15706"
+  menu_title = "#1f0e03"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(250, 240, 232)"
+
+  link = "#f29052"
+  link_hover = "#ed5f07"

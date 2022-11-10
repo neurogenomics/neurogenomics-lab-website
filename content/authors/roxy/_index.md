@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include human genetics, single cell -omics and
   neurobiology.
 social:
-  - link: x.zhang16@imperial.ac.uk
+  - link: mailto:x.zhang16@imperial.ac.uk
     icon_pack: fas
     icon: envelope
 organizations:

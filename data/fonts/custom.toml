@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = "FSUntitled-Regular450"
+body_font = "HelveticaNeueLTStd-Md"
+nav_font = "FSUntitled-Regular450"
+mono_font = "HelveticaNeueLTStd-Lt"

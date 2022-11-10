@@ -1,61 +1,49 @@
-+++
-# A "Meet the Team" section created with the People widget.
-# This section displays people from `content/authors/` which belong to the `user_groups` below.
+---
+# An instance of the Portfolio widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: people
 
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
-title = "Meet the Team"
-subtitle = ""
+# Order that this section appears on the page.
+weight: 30
 
-[content]
+# Activate this widget? true/false
+active: true
+
+title: Meet the Team
+subtitle: ''
+
+content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Post-doctoral Researchers",
-                 "Research Fellows",
-                 "PhD Students",
-                 "Bioinformaticians",
-                 "Research Assistants",
-                 "Masters Students",
-                 "Visitors",
-                 "Undergraduate Students",
-                 "Alumni",
-                 "Open Positions"]
-
-[design]
+  user_groups:
+    - Principal Investigators
+    - Post-doctoral Researchers
+    - Research Fellows
+    - PhD Students
+    - Bioinformaticians
+    - Research Assistants
+    - Masters Students
+    - Undergraduate Students
+    - Visitors
+    - Alumni
+    - Open Positions
+design:
   # Show user's social networking links? (true/false)
-  show_social = false
-
+  show_social: false
   # Show user's interests? (true/false)
-  show_interests = true
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+  show_interests: false
+  # Show user's role?
+  show_role: false
+  # Show user's organizations/affiliations?
+  show_organizations: false
   
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+  background:
+    # Choose colors such as from https://html-color-codes.info
+    gradient_start: '#d0f1f5'
+    gradient_end: '#d0f1f5'
+    # The gradient angle from 0-360 degrees
+    gradient_angle: 180
+---

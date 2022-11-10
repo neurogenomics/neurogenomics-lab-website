@@ -1,0 +1,36 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Posts
+    url: '#posts'
+    weight: 20
+  - name: People
+    url: '#people'
+    weight: 30
+  - name: Media Coverage
+    url: '#media'
+    weight: 40
+  - name: Publications
+    url: '#publications'
+    weight: 50
+  - name: Software
+    url: '#software'
+    weight: 60
+  - name: Datasets
+    url: '#datasets'
+    weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 80
+  - name: Lab wiki
+    url: 'https://github.com/neurogenomics/labwiki/wiki'
+    weight: 90
+  - name: Join us!
+    url: '/author/open-positions/'
+    weight: 100

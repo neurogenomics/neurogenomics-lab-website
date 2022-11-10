@@ -16,6 +16,9 @@ social:
   - link: https://twitter.com/Al_Murphy_
     icon_pack: fab
     icon: twitter
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:a.murphy@imperial.ac.uk'
 education:
   courses:
     - course: MSc Bioinformatics and Computational Genomics

@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include human genetics, single cell -omics and
   neurobiology.
 social:
-  - link: nskene@ic.ac.uk
+  - link: mailto:nskene@ic.ac.uk
     icon_pack: fas
     icon: envelope
   - link: https://github.com/nathanskene/

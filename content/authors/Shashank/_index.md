@@ -4,7 +4,7 @@ role: Visting Masters Student
 avatar_filename: avatar.jpg
 bio: Visiting for an eight month masters project from the University of Mumbai
 social:
-  - link: shashank.tiwari@cbs.ac.in
+  - link: mailto:shashank.tiwari@cbs.ac.in
     icon_pack: fas
     icon: envelope
 organizations:

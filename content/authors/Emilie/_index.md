@@ -3,7 +3,7 @@ title: Emilie Cottard
 role: Visiting student
 avatar_filename: avatar.jpeg
 social:
-  - link: emilie.cottard21@imperial.ac.uk
+  - link: mailto:emilie.cottard21@imperial.ac.uk
     icon_pack: fas
     icon: envelope
   - link: https://github.com/emiliecottard

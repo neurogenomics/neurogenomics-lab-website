@@ -25,3 +25,6 @@ superuser: false
 user_groups:
   -  Undergraduate Students
 ---
+I am currently in my final year of a BSc in Medical Biosciences at Imperial College London.
+I have a strong interest in Neuroscience and as such I am currently working on a project looking at the epigenetic mechanisms of a rotenone PD model in Sarah Marzi’s lab at the UKDRI. My main subjects of interest are neurodevelopment and the interactions of the GI system with the nervous system, as well as a novel interest in epigenetics which was sparked through this project. I am hoping to pursue a PhD in these fields.
+When not in labs, I can either be found in the Imperial Musical Theatre society or in my kitchen baking.

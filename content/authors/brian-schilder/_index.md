@@ -38,7 +38,7 @@ education:
     institution: Brown University
     year: 2011
 
-superuser: true
+superuser: false
 user_groups:
   - PhD Students
 ---

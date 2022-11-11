@@ -3,6 +3,7 @@ title: Welcome Di Hu to the lab!
 date: 2020-10-16T17:01:11.471Z
 draft: false
 featured: false
+author: Nathan Skene
 image:
   filename: featured
   focal_point: Smart

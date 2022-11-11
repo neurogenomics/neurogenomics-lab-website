@@ -8,7 +8,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-authors: Nathan Skene
+authors: ["Nathan Skene"]
 ---
 We are delighted to announce the publication of MungeSumstats, a Bioconductor R package for the standardisation and quality control of many GWAS summary statistics in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab665/6380562).
 

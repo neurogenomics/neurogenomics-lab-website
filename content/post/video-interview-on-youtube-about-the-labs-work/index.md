@@ -7,7 +7,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-authors: Nathan Skene
+authors: ["Nathan Skene"]
 ---
 Labspoon have created a new video about the lab's work. 
 

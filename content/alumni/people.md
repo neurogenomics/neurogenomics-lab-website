@@ -12,7 +12,7 @@ weight: 10
 active: true
 
 title: Alumni
-subtitle: ''
+subtitle: 'Get to know the Alumni of Neurogenomics Lab!'
 
 content:
   # Choose which groups/teams of users to display.

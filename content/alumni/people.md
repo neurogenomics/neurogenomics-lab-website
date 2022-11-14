@@ -11,8 +11,8 @@ weight: 10
 # Activate this widget? true/false
 active: true
 
-title: Alumni
-subtitle: '<br>'
+title: Meet the Alumni <br>
+subtitle: ''
 
 content:
   # Choose which groups/teams of users to display.

@@ -33,7 +33,7 @@ design:
   background:
     # Choose colors such as from https://html-color-codes.info
     gradient_start: '#d0f1f5'
-    gradient_end: '#d0f1f5'
+    gradient_end: '#ffffff'
     # The gradient angle from 0-360 degrees
     gradient_angle: 180
 ---

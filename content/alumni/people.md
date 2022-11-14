@@ -29,6 +29,7 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: false
+  show_bio: true
   
   background:
     # Choose colors such as from https://html-color-codes.info

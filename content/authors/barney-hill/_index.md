@@ -1,7 +1,6 @@
 ---
 title: Barney Hill
-role: Genetics Society funded UROP student
-interests: ["Barney was a Genetics Society funded UROP student who did a summer placement in the lab. He's currently working as a Bioinformatician at the University of Oxford."]
+role: Barney was a Genetics Society funded UROP student who did a summer placement in the lab. He's currently working as a Bioinformatician at the University of Oxford.
 avatar_filename: avatar.jpeg
 bio: Mathematics undergraduate at University of Leeds
 social:

@@ -1,12 +1,15 @@
 ---
 title: Ji Sang Mo
-role: Undergraduate Student
+role: Ji was a visiting Undergraduate Student who is now pursuing his medicine (MBBS) degree at Imperial College London.
 avatar_filename: avatar.jpg
 bio: MSc Medicine (MBBS)
 social:
   - link: mailto:ji.mo17@imperial.ac.uk
     icon_pack: fas
     icon: envelope
+  - link: https://www.linkedin.com/in/ji-sang-mo-5781351b2/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

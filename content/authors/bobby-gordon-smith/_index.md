@@ -1,6 +1,6 @@
 ---
 title: Bobby Gordon-Smith
-role: Bioinformatician
+role: Bobby first joined the lab as a rotation student on the MRes Molecular and Cellular Biosciences program and then continued working with the lab as a Bioinformatician. 
 avatar_filename: avatar.jpeg
 organizations:
   - name: Imperial College London
@@ -8,7 +8,7 @@ organizations:
   - name: UK Dementia Research Institute
     url: https://ukdri.ac.uk/
 social:
-  - link: https://github.com/ovrhuman
+  - link: https://github.com/bobGSmith
     icon_pack: fab
     icon: github
 education:
@@ -20,4 +20,4 @@ superuser: false
 user_groups:
   - Alumni
 ---
-I joined the lab as a rotation student on the MRes Molecular and Cellular Biosciences program then decided to continue as a bioinformatician
+I joined the lab as a rotation student on the MRes Molecular and Cellular Biosciences program then decided to continue as a Bioinformatician

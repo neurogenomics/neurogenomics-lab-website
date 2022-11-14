@@ -1,15 +1,15 @@
 ---
 title: Jai Chapman
-role: Biomedical Sciences Project Student
+role: Jai was a Biomedical Sciences Project Student who is now a Medical student at King’s College London. 
 avatar_filename: avatar.jpeg
 bio: 3rd year project student on the Biomedical Sciences undergraduate program at Imperial
 social:
-  - link: mailto:jai.chapman18@imperial.ac.uk
-    icon_pack: fas
-    icon: envelope
   - link: https://github.com/JaiChapman
     icon_pack: fab
-    icon: github    
+    icon: github 
+  - link: https://www.linkedin.com/in/jai-chapman-a5b97a10b/
+    icon_pack: fab
+    icon: linkedin 
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

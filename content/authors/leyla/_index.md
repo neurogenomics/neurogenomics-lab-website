@@ -1,12 +1,12 @@
 ---
 title: Leyla Abbasova
-role: Masters Student
+role: Leyla was a visiting MSc degree student in the lab. Currently, she is doing her PhD on multi-omic investigation of cortical interneuron development and specification at King's College London. 
 avatar_filename: avatar.jpg
 bio: MSc Translational Neuroscience student
 social:
-  - link: mailto:leyla.abbasova20@imperial.ac.uk
-    icon_pack: fas
-    icon: envelope
+  - link: https://www.linkedin.com/in/leylaabbasova997/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

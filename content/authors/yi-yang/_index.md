@@ -1,12 +1,15 @@
 ---
 title: Yi Yang
-role: Biomedical Sciences Project Student
+role: Yi was a Biomedical Sciences Project Student. Yi is now doing a Master's degree in Bioinformatics and Theoretical Systems Biology at Imperial College London.
 avatar_filename: avatar.jpeg
 bio: 3rd year project student on the Biomedical Sciences undergraduate program at Imperial
 social:
   - link: mailto:yi.yang19@imperial.ac.uk
     icon_pack: fas
     icon: envelope
+  - link: https://www.linkedin.com/in/yiyang2019/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

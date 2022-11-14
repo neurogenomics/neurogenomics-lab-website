@@ -1,8 +1,8 @@
 ---
 title: Jose Torres-Pérez
-role: DRI Funded Postdoc
+role: Jose was a Postdoctoral Researcher who is now working as a Research Fellow at the University of Valencia. 
 avatar_filename: avatar.jpg
-bio: Short bio to come
+bio: 
 social:
   - link: mailto:j.torres-perez@imperial.ac.uk
     icon_pack: fas

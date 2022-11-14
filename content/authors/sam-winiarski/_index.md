@@ -1,11 +1,14 @@
 ---
 title: Sam Winiarski
-role: Undergraduate Student
+role: Sam was a Undergraduate Student whose project focused on the epigenetic and transcriptional dysregulation in the substantia nigra of rotenone treated rats and of signatures of Parkinson’s disease in human post-mortem brain. Sam is currently studying a Master's degree in Bioengineering at Imperial College London.
 avatar_filename: avatar.JPG
 social:
   - link: mailto:samuel.winiarski19@imperial.ac.uk
     icon_pack: fas
     icon: envelope
+  - link: https://www.linkedin.com/in/sam-winiarski/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

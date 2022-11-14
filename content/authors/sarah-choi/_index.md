@@ -1,12 +1,15 @@
 ---
 title: Sarah Choi
-role: Biomedical Sciences Project Student
+role: Sarah was a Biomedical Sciences Project Student who is now doing her Master's degree in Integrative Neuroscience at the University of Edinburgh. 
 avatar_filename: avatar.jpeg
 bio: 3rd year project student on the Biomedical Sciences undergraduate program at Imperial
 social:
   - link: mailto:loch.choi19@imperial.ac.uk
     icon_pack: fas
     icon: envelope
+  - link: https://www.linkedin.com/in/sarah-choi-160a46121/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

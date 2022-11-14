@@ -1,6 +1,6 @@
 ---
 title: Lusheng Li
-role: MSc Student
+role: Lusheng was a visiting MSc Student in Applied Genomics (Imperial College London).
 avatar_filename: avatar.jpg
 superuser: false
 user_groups:

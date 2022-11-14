@@ -1,6 +1,6 @@
 ---
 title: Kristina Salontaji
-role: Erasmus funded visting masters Student
+role: Kristina was a visting Master's student from the Vrije University Amsterdam. She is now pursuing her PhD at Erasmus MC (Rotterdam, the Netherlands).  
 avatar_filename: avatar.jpg
 bio: Visiting on the Erasmus programme from the Vrije University of Amsterdam
 social:
@@ -10,6 +10,9 @@ social:
   - link: https://github.com/KristinaSalontaji
     icon_pack: fab
     icon: github    
+  - link: https://www.linkedin.com/in/kristina-salontaji-367447140/
+    icon_pack: fab
+    icon: linkedin    
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

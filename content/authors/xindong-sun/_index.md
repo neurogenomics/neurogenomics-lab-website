@@ -1,6 +1,6 @@
 ---
 title: Xindong Sun
-role: MSc Student
+role: Xindong joined the group as a visiting MSc Student. He studied Bioinformatics and Theoretical Systems Biology at Imperial College London. 
 avatar_filename: avatar.jpeg
 bio: ''
 social:

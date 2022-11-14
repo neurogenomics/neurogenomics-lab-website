@@ -1,13 +1,10 @@
 ---
 title: Sera Choi
-role: MSc Student
+role: Sera was a visiting MSc student who currently works at Illumina as a Bioinformatics programmer. 
 avatar_filename: avatar.jpeg
 bio: ''
 social:
-  - link: sera.choi16@imperial.ac.uk
-    icon_pack: fas
-    icon: envelope
-  - link: https://www.linkedin.com/in/xindong-sun-549ba2201/
+  - link: https://www.linkedin.com/in/sera-choi-ab181a16b/
     icon_pack: fab
     icon: linkedin
 organizations:

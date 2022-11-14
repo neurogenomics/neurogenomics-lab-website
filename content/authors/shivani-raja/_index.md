@@ -1,6 +1,6 @@
 ---
 title: Shivani Raja
-role: Undergraduate Student
+role: Shivani was a visiting Undergraduate Student studing Medical Biosciences at Imperial College London. Shivani is now pursuing her PhD at the University of Surrey.
 avatar_filename: avatar.png
 social:
   - link: mailto:shivani.raja19@imperial.ac.uk
@@ -9,6 +9,9 @@ social:
   - link: https://twitter.com/shivanirajaa
     icon_pack: fab
     icon: twitter
+  - link: https://www.linkedin.com/in/shivaniraja/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

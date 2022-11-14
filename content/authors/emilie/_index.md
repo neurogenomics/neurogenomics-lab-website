@@ -1,14 +1,14 @@
 ---
 title: Emilie Cottard
-role: Visiting student
+role: Emilie was a visiting student at the lab while she was completing her Master's degree in Molecular and Cell Biology at Agrocampus Ouest Institute (Rennes, France).
 avatar_filename: avatar.jpeg
 social:
-  - link: mailto:emilie.cottard21@imperial.ac.uk
-    icon_pack: fas
-    icon: envelope
   - link: https://github.com/emiliecottard
     icon_pack: fab
     icon: github
+  - link: https://www.linkedin.com/in/emilie-cottard/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: Molecular and Cellular Biology

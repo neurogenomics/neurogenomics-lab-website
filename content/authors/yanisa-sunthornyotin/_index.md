@@ -1,6 +1,6 @@
 ---
 title: Yanisa Sunthornyotin
-role: MSc Student
+role: Yanisa was a visiting MSc Student. She is now working as a Senior Software Developer at European Bioinformatics Institute (EMBL-EBI).
 avatar_filename: avatar.jpg
 social:
   - link: https://github.com/mingyanisa

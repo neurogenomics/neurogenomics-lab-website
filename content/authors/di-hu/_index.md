@@ -1,6 +1,6 @@
 ---
 title: Di Hu
-role: DRI Funded Postdoc
+role: Di was a DRI Funded Postdoc who is now working as a Autonomous Research Scientist at <a href="https://retro.bio">Retro Biosciences</a> (California, USA). 
 avatar_filename: avatar.jpg
 bio: Short bio to come
 social:

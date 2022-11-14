@@ -1,11 +1,14 @@
 ---
 title: Sabino Mendez Pastor
-role: Undergraduate Student
+role: Sabino was a visiting Undergraduate Student at the Marzi group.
 avatar_filename: avatar.jpg
 social:
   - link: mailto:sabino.mendez-pastor@imperial.ac.uk
     icon_pack: fas
     icon: envelope
+  - link: https://www.linkedin.com/in/sabino-mendez-pastor/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

@@ -1,6 +1,6 @@
 ---
 title: Zijing Liu
-role: DRI Funded Postdoc
+role: Zijing was a DRI Funded Postdoc. He is now working as an R&D engineer within the NLP department in Baidu Inc. 
 avatar_filename: avatar.jpg
 social:
   - link: mailto:zijing.liu@imperial.ac.uk
@@ -8,7 +8,10 @@ social:
     icon: envelope
   - link: https://github.com/zj-liu
     icon_pack: fab
-    icon: github        
+    icon: github     
+  - link: https://www.linkedin.com/in/zijing-liu-5a148125/
+    icon_pack: fab
+    icon: linkedin   
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

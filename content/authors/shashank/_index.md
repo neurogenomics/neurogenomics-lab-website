@@ -1,6 +1,6 @@
 ---
 title: Shashank Tiwari
-role: Visting Masters Student
+role: Shashank was a visting Masters Student from the UM-DAE Center for Excellence in Basic Sciences (Mumbai, India). 
 avatar_filename: avatar.jpg
 bio: Visiting for an eight month masters project from the University of Mumbai
 social:

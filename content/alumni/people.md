@@ -6,16 +6,13 @@ widget: people
 # This file represents a page section.
 headless: true
 
+weight: 10
+
 # Activate this widget? true/false
 active: true
 
 title: Alumni
 subtitle: ''
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
 
 content:
   # Choose which groups/teams of users to display.
@@ -25,7 +22,7 @@ content:
 
 design:
   # Show user's social networking links? (true/false)
-  show_social: false
+  show_social: true
   # Show user's interests? (true/false)
   show_interests: false
   # Show user's role?

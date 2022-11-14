@@ -13,7 +13,7 @@ main:
   - name: People
     url: '#people'
     weight: 30
-  - name: Media Coverage
+  - name: Media
     url: '#media'
     weight: 40
   - name: Publications
@@ -34,3 +34,6 @@ main:
   - name: Join us!
     url: '/author/open-positions/'
     weight: 100
+  - name: Alumni
+    url: 'alumni/'
+    weight: 110

@@ -1,6 +1,6 @@
 ---
 title: Jai Chapman
-role: Biomedical Sciences Project Student – 3rd year project student on the Biomedical Sciences undergraduate program at Imperial
+role: Biomedical Sciences Project Student
 avatar_filename: avatar.jpeg
 bio: 3rd year project student on the Biomedical Sciences undergraduate program at Imperial
 social:

@@ -28,7 +28,6 @@ content:
     - Masters Students
     - Undergraduate Students
     - Visitors
-    - Alumni
     - Open Positions
 design:
   # Show user's social networking links? (true/false)

@@ -35,5 +35,5 @@ main:
     url: '/author/open-positions/'
     weight: 100
   - name: Alumni
-    url: 'alumni/'
+    url: 'alumni/people'
     weight: 110

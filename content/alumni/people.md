@@ -12,7 +12,7 @@ weight: 10
 active: true
 
 title: Meet the Alumni <br>
-subtitle: ''
+subtitle: <br>
 
 content:
   # Choose which groups/teams of users to display.

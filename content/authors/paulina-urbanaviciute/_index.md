@@ -16,5 +16,16 @@ social:
   - link: mailto:paulina.urbanaviciute18@imperial.ac.uk
     icon_pack: fas
     icon: envelope 
+education:
+  courses:
+    - course: BSc Biochemistry
+      institution: Imperial College London
+      year: 2021
+    - course: MSc Applied Genomics
+      institution: Imperial College London
+      year: 2022
+
 ---
-I am currently an MSc Applied Genomics student at Imperial College London. My interests lie in genetics and bioinformatics, which I specialised in during my BSc Biochemistry studies at Imperial. I  focussed my thesis on antimicrobial resistance evolution in tuberculosis, where I gained experience in statistical analysis using sequencing data. Curiosity for complex genetic diseases lead me to my current Master’s course and the neurogenomics lab, where I will be identifying allelic biases for epigenetics in Alzheimer’s disease under the supervision of Dr Sarah Marzi.
+After studying topics in bioinformatics and genomics throughout my BSc degree in Biochemistry, I felt motivated to purse an MSc in Applied Genomics. Interest in neuroscience led me to the neurogenomics lab to complete my 6-month MSc project, focusing on the allele-specific histone acetylation in Alzheimer’s disease under the supervision of Sarah Marzi. 
+
+As of November 2022, I continue in the Marzi lab as a research technician with the aim of finalising my MSc project analyses, as well as collaborating with other researchers to identify transposable elements associated with Alzheimer’s disease and chromatin accessibility profiles associated with pesticide exposure in Parkinson’s disease.

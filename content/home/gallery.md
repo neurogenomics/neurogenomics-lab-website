@@ -24,7 +24,7 @@ design:
 gallery_item:
 - album: socials
   image: pizza.png
-  caption: Summer pizzas at Scale Space, 
+  caption: Summer pizzas at Scale Space 
 - album: socials
   image: connectome.png
   caption: Marzi Lab in Connectome 2022, Brighton
@@ -42,13 +42,13 @@ gallery_item:
   caption: Afterwork drinks with colleagues from the UK DRI centre at Imperial White City campus
 - album: socials
   image: pizzawine12.png
-  caption: Aftwork social drinks on the 12th floor at Sir Michael Uren Hub
+  caption: Afterwork social drinks & pizza on the 12th floor at Sir Michael Uren Hub
 - album: socials
   image: pubtime2.png
   caption: Another afterwork pub social
 - album: socials
   image: suits.png
-  caption: 
+  caption: Visiting Cambrigde 
 - album: socials
   image: wine12.png
   caption: Enjoying wine and the views from the 12th floor at Sir Michael Uren Hub  

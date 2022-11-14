@@ -26,7 +26,7 @@ design:
   # Show user's interests? (true/false)
   show_interests: true
   # Show user's role?
-  show_role: false
+  show_role: true
   # Show user's organizations/affiliations?
   show_organizations: false
   

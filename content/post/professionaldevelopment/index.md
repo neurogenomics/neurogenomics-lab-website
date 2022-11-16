@@ -1,5 +1,5 @@
 ---
-title: Training session on presentation skills by People and Organisational Development
+title: Training session on presentation skills by People and Organisational Development 
 date: 2022-11-16T15:01:11.471Z
 draft: false
 featured: false

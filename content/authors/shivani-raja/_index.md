@@ -1,6 +1,6 @@
 ---
 title: Shivani Raja
-role: Shivani was a visiting Undergraduate Student studing Medical Biosciences at Imperial College London. Shivani is now pursuing her PhD at the University of Surrey.
+role: Shivani was a visiting Undergraduate Student studing Medical Biosciences at Imperial College London. Shivani is now working at a startup called Genuine Impact doing data visualisation.
 avatar_filename: avatar.png
 social:
   - link: mailto:shivani.raja19@imperial.ac.uk

@@ -1,6 +1,6 @@
 ---
 title: Ying Tang
-role: Ying was a Visting Masters Student studying Human Molecular Genetics at Imperial College London.
+role: Ying was a visiting Masters Student studying Human Molecular Genetics at Imperial College London.
 avatar_filename: avatar.jpg
 bio: MSc Human Molecular Genetics student
 social:

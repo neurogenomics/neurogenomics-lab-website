@@ -1,6 +1,6 @@
 ---
 title: Sheen Lei
-role: Undergraduate Student
+role: Under the supervision of Dr. Nathan Skene and Brian Schilder, Sheen worked on her third-year research project (Medical Biosciences, ICL), benchmarking cell type enrichment for genome-wide disease signatures.
 avatar_filename: avatar.jpeg
 social:
   - link: mailto:sheen.lei20@imperial.ac.uk
@@ -23,7 +23,7 @@ education:
       year: 2024
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 ---
 I am a third year undergraduate student studying Medical Biosciences at Imperial College London. I am interested in rare and common variants in human diseases. Before joining the lab, I took a two-month summer research experience in Cardiovascular Genetics & Genomics Group at Imperial, working on rare variant curation of genes related to hypertrophic and dilated cardiomyopathy.
 Under the supervision of Dr Nathan Skene and Brian Schilder, I am now working on my third year research project about benchmarking of cell type enrichment for genome-wide signature of diseases. I enjoy watching musicals and I am singing soprano in choir.

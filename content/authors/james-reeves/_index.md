@@ -1,6 +1,6 @@
 ---
 title: James Reeves
-role: Undergraduate Student
+role: James completed a 20-week project as a part of his BSc in Medical Biosciences at ICL under the supervision of Dr. Nathan Skene and Alan Murphy, investigating the impact of increasing known non-biallelic SNPs on the functionality of the MungeSumStats formatting package in R.
 avatar_filename: avatar.png
 social:
   - link: mailto:james.reeves20@imperial.ac.uk
@@ -16,7 +16,7 @@ organizations:
     url: https://ukdri.ac.uk/
 superuser: false
 user_groups:
-  - Undergraduate Students
+  - Alumni
 education:
   courses:
     - course: BSc Medical Biosciences

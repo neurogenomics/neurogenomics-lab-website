@@ -1,6 +1,6 @@
 ---
 title: Oliwia Ogrodniczek
-role: Undergraduate Student
+role: Oliwia was a final year undergraduate student from Medical Biosciences (ICL) and worked on a project investigating the epigenetic mechanisms of a rotenone PD model in Sarah Marzi’s lab at the UKDRI, which sparked her novel interest in epigenetics.
 avatar_filename: avatar.jpg
 social:
   - link: mailto:oliwia.ogrodniczek20@imperial.ac.uk
@@ -23,7 +23,7 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  -  Undergraduate Students
+  -  Alumni
 ---
 I am currently in my final year of a BSc in Medical Biosciences at Imperial College London.
 I have a strong interest in Neuroscience and as such I am currently working on a project looking at the epigenetic mechanisms of a rotenone PD model in Sarah Marzi’s lab at the UKDRI. My main subjects of interest are neurodevelopment and the interactions of the GI system with the nervous system, as well as a novel interest in epigenetics which was sparked through this project. I am hoping to pursue a PhD in these fields.

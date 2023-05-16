@@ -1,7 +1,7 @@
 ---
 title: Subalakshmi Jayachandar
 role: MRes student 
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 social:
   - link: mailto:s.jayachandar22@imperial.ac.uk
     icon_pack: fas

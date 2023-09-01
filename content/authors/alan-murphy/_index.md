@@ -10,6 +10,12 @@ organizations:
   - name: Department of Brain Sciences
     url: https://www.imperial.ac.uk/brain-sciences
 social:
+  - link: https://al-murphy.github.io/
+    icon_pack: ai
+    icon: cv
+  - link: https://scholar.google.com/citations?user=oH1tIr0AAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
   - link: https://github.com/Al-Murphy/
     icon_pack: fab
     icon: github
@@ -36,3 +42,5 @@ I have a background in data analytics and machine learning, undertaking my under
 More recently, I worked as part of Dr. Overton's group in Queen's University Belfast. My research focused on methods of integrating multi-omic patient data, through network biology approaches, to predict the instigated molecular players in differing biological contexts such as the Epithelial to Mesenchymal Transition (EMT) process. 
 
 I joined Dr. Nathan Skene's group as a bioinformatician focusing on the analysis of multi-omic single-cell data in neurodegenerative diseases before starting my PhD. During this time, I developed [MungeSumstats](https://www.biorxiv.org/content/10.1101/2021.06.21.449239v1) for the quality control and standardisation of GWAS summary statistics. The primary focus of my PhD research is in the prediction of cell type specific regulatory effects of genetic variants in neurodengenerative diseases.
+
+See my [personal website](https://al-murphy.github.io/) for more details.

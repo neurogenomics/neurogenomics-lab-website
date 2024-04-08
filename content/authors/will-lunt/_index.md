@@ -1,6 +1,6 @@
 ---
 title: Will Lunt
-role: Research Assistant
+role: Will was a Research Assistant in the Skene group.
 avatar_filename: avatar.jpeg
 education:
   courses:
@@ -12,7 +12,7 @@ social:
     icon: envelope
 superuser: false
 user_groups:
-  - Research Assistants
+  - Alumni
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

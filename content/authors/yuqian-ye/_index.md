@@ -1,6 +1,6 @@
 ---
 title: Yuqian Ye
-role: Research Technician
+role: Yuqian was a Research Technician in the Skene group.
 avatar_filename: avatar.jpg
 social:
   - link: y.ye21@imperial.ac.uk
@@ -32,7 +32,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  -  Research Assistants
+  - Alumni
 ---
 My undergraduate degree was in Biological Sciences (Genetics). The 4-year BSc programme was a collaboration between the University of Birmingham and Fudan University. I started doing neurobiology research in my second year, being the only second-year student among third- and fourth-year students selected for the Dream Lab initiative at Fudan University. I spent the last two years of my degree at Birmingham, and conducted my BSc thesis project in the Brain Plasticity & Regeneration Lad, supervised by Professor Alicia Hidalgo.
 

@@ -13,7 +13,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Masters Students
+  - Alumni
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/dementia-research-institute/

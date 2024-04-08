@@ -15,7 +15,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Masters Students
+  - Alumni
 ---
 I am half-way through my Part-Time Genomic Medicine M.Sc. At Imperial College London.
 

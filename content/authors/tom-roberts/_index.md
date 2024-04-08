@@ -21,7 +21,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 education:
   courses:
-    - course: MSci Biological Sciences: Computational Biology
+    - course: MSci Biological Sciences (Computational Biology)
       institution: University College London
       year: 2023
 superuser: false

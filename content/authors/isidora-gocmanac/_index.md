@@ -32,6 +32,6 @@ My educational journey in the sciences began with a BSc in Genomics at the Unive
 
 Now, in my first year of PhD studies, I am focusing on a project titled “Testing for an enrichment of Alzheimer’s Disease associated genetic variants in neurons”. The goal of my current research is to uncover the relevant cell-types implicated in Alzheimer’s disease, utilising epigenomic data to navigate the complex landscape of neurodegenerative diseases.
 
-Driven by a passion for understanding neurodegenerative diseases and equipped with a background in both wet-lab techniques and computational analysis, I am eager to contribute to groundbreaking research that has the potential to transform our understanding of these complex conditions. 
+Driven by a passion for understanding neurodegenerative diseases and equipped with a background in both wet-lab techniques and computational analysis, I am eager to contribute to groundbreaking research that has the potential to transform our understanding of these complex conditions.
 
 Beyond academia, I am passionate about sports, enjoy spending time with family and friends, and love to travel, seeking new experiences and perspectives.

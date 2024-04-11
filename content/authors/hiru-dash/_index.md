@@ -8,7 +8,7 @@ social:
     icon_pack: fas
     icon: envelope
   - link: https://github.com/HDash/
-    icon_pack: fas
+    icon_pack: fab
     icon: github
   - link: https://www.linkedin.com/in/hdash/
     icon_pack: fab

@@ -51,8 +51,8 @@ footer:
       allow_commercial: false
   # Adding institute logos to the footer
   images:
-    - path: assets/media/dri_logo_footer.png
-    - path: assets/media/institute_logo_2.png
+    - path: /assets/media/dri_logo_footer.png
+    - path: /assets/media/imperial_logo_footer.png
 
 # Localization
 

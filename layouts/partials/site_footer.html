@@ -1,3 +1,9 @@
 <footer class="site-footer">
-
-  </footer>
+  {{ if isset .Site.Params.footer "images" }} <!-- Check if images are set in the config -->
+    <div class="footer-logos">
+      {{ range .Site.Params.footer.images }}
+        <img src="{{ .path }}" alt="Footer Image">
+      {{ end }}
+    </div>
+  {{ end }}
+</footer>

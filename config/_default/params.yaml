@@ -50,9 +50,9 @@ footer:
       share_alike: true
       allow_commercial: false
   # Adding institute logos to the footer
-  images:
-    - path: /assets/media/dri_logo_footer.png
-    - path: /assets/media/imperial_logo_footer.png
+  # images:
+  #   - path: /assets/media/dri_logo_footer.png
+  #   - path: /assets/media/imperial_logo_footer.png
 
 # Localization
 

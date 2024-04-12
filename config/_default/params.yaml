@@ -49,6 +49,10 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  # Adding institute logos to the footer
+  images:
+    - path: assets/media/dri_logo_footer.png
+    - path: assets/media/institute_logo_2.png
 
 # Localization
 

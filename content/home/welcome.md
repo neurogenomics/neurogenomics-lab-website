@@ -28,7 +28,7 @@ design:
 
 <br>
 
-<p style="color:#FA824C">Our team is looking to recruit postdoctoral researchers and PhD students with either experimental experience working with DNA/RNA, or with quantitative backgrounds in Maths, Computer Science, or Statistics. Projects will involve integrating single cell genomic data with human genetics.</p>
+<p style="color:#FA824C">Our team is looking to recruit postdoctoral researchers and PhD students with either experimental experience working with DNA/RNA, or with quantitative backgrounds in Maths, Computer Science, or Statistics.</p>
 
 <br>
 

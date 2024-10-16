@@ -20,6 +20,6 @@ education:
       year: 2025
 superuser: false
 user_groups:
-  - Visitors
+  - Alumni
 ---
 I am an undergraduate Biotechnology student at Imperial College London with a deep interest in the complex relationship between genetics and brain disorders. Currently, as a UROP student, I am assisting Levia in optimizing coppaFISH, an innovative spatial transcriptomics technique, in human brain tissue, with the aim to investigate selective vulnerability in neurodegenerative diseases.

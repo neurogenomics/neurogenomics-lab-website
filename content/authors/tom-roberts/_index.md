@@ -26,6 +26,8 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Research Assistants
+  - Alumni
 ---
 Before joining the lab, I completed an integrated master’s in computational biology at UCL. My current work focuses on developing computational methods for analysing and benchmarking epigenomic data.
+
+Presently pursuing a Doctorate degree at University of Oxford.

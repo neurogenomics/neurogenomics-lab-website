@@ -18,7 +18,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Masters Students
+  - Alumni
 education:
   courses:
     - course: MRes Bioinformatics and Theoretical Systems Biology

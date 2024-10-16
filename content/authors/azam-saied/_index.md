@@ -21,7 +21,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Masters Students
+  - Alumni
 education:
   courses:
     - course: Bachelor of Medicine, Bachelor of Surgery, Medicine

@@ -1,6 +1,6 @@
 ---
 title: Dana Aljarrah
-role: MSc Student
+role: Research Assistant
 avatar_filename: avatar.jpeg
 social:
   - link: mailto:dana.aljarrah23@imperial.ac.uk
@@ -21,7 +21,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Masters Students
+  - Research Assistants
 education:
   courses:
     - course: MSc Translational Neuroscience

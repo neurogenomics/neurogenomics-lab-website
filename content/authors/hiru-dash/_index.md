@@ -1,6 +1,6 @@
 ---
 title: Hiranyamaya (Hiru) Dash
-role: Research Master's Student
+role: Bioinformatician
 avatar_filename: avatar.jpg
 bio: 
 social:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Masters Students
+  - Research Assistants
 education:
   courses:
     - course: BSc (Hons) Biomedical Sciences

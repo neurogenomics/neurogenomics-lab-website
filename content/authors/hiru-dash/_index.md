@@ -10,6 +10,9 @@ social:
   - link: https://github.com/HDash/
     icon_pack: fab
     icon: github
+  - link: https://orcid.org/0009-0005-5514-505X
+    icon_pack: fab
+    icon: orcid
   - link: https://www.linkedin.com/in/hdash/
     icon_pack: fab
     icon: linkedin    

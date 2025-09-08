@@ -18,7 +18,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Visitors
+  - Alumni
 education:
   courses:
     - course: BSc Medical Biosciences

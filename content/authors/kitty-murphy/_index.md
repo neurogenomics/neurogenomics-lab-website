@@ -29,7 +29,7 @@ education:
       
 superuser: false
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
 During my undergraduate degree I was fortunate enough to spend a year at the University of Melbourne, where I took the Principles of Neuroscience module. With each lecture being vastly different but just as interesting as the last, I soon realised I would never be bored as a neuroscientist. This fueled my decision to specialise in neuroscience when I returned to King’s College London for my final year of my Biomedical Science degree. 

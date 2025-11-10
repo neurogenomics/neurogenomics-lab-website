@@ -40,7 +40,7 @@ education:
 
 superuser: false
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 As a researcher with experiences in a variety of fields, I am a believer in the innovation and insights that can be gained from highly inter-disciplinary research. In 2011, I earned my ScB in Cognitive Neuroscience from Brown University (Providence, RI). The core focus of my work was and continues to be the investigation of human susceptibility to diseases and disorders in order to impact human health and alleviate suffering. 
 

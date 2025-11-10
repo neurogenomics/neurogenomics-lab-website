@@ -21,7 +21,7 @@ organizations:
     url: https://www.imperial.ac.uk/brain-sciences
 superuser: false
 user_groups:
-  - Research Assistants
+  - Alumni
 education:
   courses:
     - course: MSc Translational Neuroscience

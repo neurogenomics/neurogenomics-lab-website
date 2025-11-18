@@ -2,7 +2,6 @@
 title: Chris Crampton
 role: Bioinformatician
 avatar_filename: avatar.jpg
-bio: 
 social:
   - link: mailto:c.crampton@imperial.ac.uk
     icon_pack: fas

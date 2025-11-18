@@ -2,7 +2,6 @@
 title: Jay Moore
 role: Bioinformatician
 avatar_filename: avatar.jpg
-bio: 
 social:
   - link: mailto:j.moore1@imperial.ac.uk
     icon_pack: fas

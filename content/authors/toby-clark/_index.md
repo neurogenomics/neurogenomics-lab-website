@@ -3,7 +3,7 @@ title: Toby Clark
 role: PhD Student
 avatar_filename: avatar.jpg
 social:
-  - link: mailto: toby.clark25@imperial.ac.uk
+  - link: mailto:toby.clark25@imperial.ac.uk
     icon_pack: fas
     icon: envelope
   - link: https://github.com/toby-clark4/
